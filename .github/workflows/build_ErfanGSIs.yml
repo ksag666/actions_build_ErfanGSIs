@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://firmware-res.flyme.com/Firmware/Flyme/PRO7_Plus/8.0.5.0/cn/20200915161143/64b6a813/update.zip?auth_key=1735307625-0-0-2834cd160590d18840b37736e7589105
   ROM_NAME: Flyme
-  BUILD_TYPE: a
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
